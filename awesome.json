@@ -1,11 +1,11 @@
 {
-  "topic": "Your Topic",
-  "repo": "ianwieds/awesome-template",
-  "tagline": "A curated list of Your Topic libraries, tools and guides.",
-  "scope": "It is about Your Topic, not just a project that happens to use it.",
-  "accent": "FFA000",
+  "topic": "Agent Runtimes",
+  "repo": "ianwieds/awesome-agent-runtimes",
+  "tagline": "Managed platforms, durable execution engines and agent servers where AI agents live, keep state and run for long.",
+  "scope": "It is about hosting and running agents over time, not a code sandbox or an agent framework with no runtime.",
+  "accent": "A855F7",
   "minStars": 10,
-  "maxInactiveMonths": 0,
+  "maxInactiveMonths": 12,
   "maintainer": { "name": "Ian Wiedenman", "url": "https://github.com/ianwieds" },
-  "heroAlt": "Animated isometric scene for Your Topic."
+  "heroAlt": "Animated isometric scene: a clock hand sweeps a building of agent rooms, lighting each room in turn while its agent works, and every finished room sends a state packet along a wire into a cabinet drawer that fills card by card."
 }
