@@ -1,8 +1,8 @@
 {
-  "name": "awesome-template",
+  "name": "awesome-agent-runtimes",
   "version": "1.0.0",
   "private": true,
-  "description": "A GitHub template for a curated awesome list, with checked pull requests.",
+  "description": "Managed platforms, durable execution engines and agent servers where AI agents live, keep state and run for long.",
   "license": "CC0-1.0",
   "scripts": {
     "test": "node --test \"tests/*.test.js\"",

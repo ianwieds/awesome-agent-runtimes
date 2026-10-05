@@ -4,13 +4,13 @@ Thanks for helping keep this list useful. Please read these rules before you ope
 
 ## What belongs here
 
-Replace this paragraph with the list's scope: what it covers, and which nearby projects belong only when the topic is central to what they do.
+This list covers the places AI agents run over time: managed agent platforms, agent hosting services, self-hosted agent servers, stateful runtimes, durable execution engines and the guides that explain them. An agent framework belongs here only when it ships its own runtime for hosting, persisting or resuming agents, and a workflow engine only when durable, long-running execution is what it does. Code sandboxes belong on [Awesome Agent Sandboxes](https://github.com/ianwieds/awesome-agent-sandboxes), not here.
 
 An entry must be:
 
 - **Public:** a repository or page anyone can open without signing in.
 - **Documented:** a README or docs page that explains what it does and how to use it.
-- **Maintained:** for a repository, <!-- awesome:inactive -->not archived and not marked deprecated by its owner<!-- /awesome:inactive -->.
+- **Maintained:** for a repository, <!-- awesome:inactive -->not archived, not marked deprecated by its owner, and with a commit in the last 12 months<!-- /awesome:inactive -->.
 - **Established:** a GitHub project has <!-- awesome:stars -->at least 10 stars<!-- /awesome:stars --> when it is submitted.
 - **Working:** every link resolves.
 
