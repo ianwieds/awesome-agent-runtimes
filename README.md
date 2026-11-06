@@ -124,6 +124,8 @@ An agent runtime is the place an AI agent lives after the demo: it keeps the age
 - [Awesome Durable Executions](https://github.com/edmondop/awesome-durable-executions) - List of durable execution engines, papers and talks.
 - [Demystifying Determinism in Durable Execution](https://jack-vanlightly.com/blog/2025/11/24/demystifying-determinism-in-durable-execution) - Jack Vanlightly on what must be deterministic in a durable workflow and why.
 - [Durable AI Loops](https://restate.dev/blog/durable-ai-loops-fault-tolerance-across-frameworks-and-without-handcuffs) - Restate on making agent loops fault-tolerant across agent frameworks.
+- [Durable Execution for AI Agents](https://durableexecutionguide.com/durable-execution-for-ai-agents) - What an agent run resumes, what survives a commit, and who accepts the result.
+
 - [Durable Execution for Building Crashproof AI Agents](https://www.dbos.dev/blog/durable-execution-crashproof-ai-agents) - DBOS on checkpointing agent steps so a crash never loses work.
 - [Durable Execution Meets AI](https://temporal.io/blog/durable-execution-meets-ai-why-temporal-is-the-perfect-foundation-for-ai) - Temporal on why agents and LLM apps need durable execution.
 - [Durable Execution: The Key to Harnessing AI Agents in Production](https://www.inngest.com/blog/durable-execution-key-to-harnessing-ai-agents) - Inngest on retries, state and long waits for production agents.
