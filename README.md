@@ -63,6 +63,7 @@ An agent runtime is the place an AI agent lives after the demo: it keeps the age
 - [MUXI](https://github.com/muxi-ai/muxi) - Self-hosted application server that deploys groups of agents with memory, RBAC and tools.
 - [OMA](https://github.com/open-multi-agent/open-multi-agent) - Self-hosted TypeScript agent runtime with durable approvals and verifiable run records.
 - [RunAgent](https://github.com/runagent-dev/runagent) - CLI and SDKs that deploy agents as serverless or always-on services, with scheduling.
+- [SandBase Harness](https://github.com/sandbaseai/sandbase-harness) - Self-hosted agent server with persistent sessions, sandboxed tools and approval gates.
 - [SmythOS SRE](https://github.com/SmythOS/sre) - Open runtime that gives agents one OS-style interface to models, storage and vector stores.
 
 ## Stateful runtimes and sessions
