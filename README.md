@@ -136,10 +136,10 @@ An agent runtime is the place an AI agent lives after the demo: it keeps the age
 - [Scaling Managed Agents](https://www.anthropic.com/engineering/managed-agents) - Anthropic on splitting the agent loop from its execution environment.
 - [Why do I need LangGraph Platform for agent deployment?](https://www.langchain.com/blog/why-langgraph-platform) - LangChain on the runtime needs of long-running, stateful agents.
 
+<!-- awesome:footer -->
 ## Contributing
 
 Contributions are welcome. Read the [contribution guidelines](contributing.md) first.
 
-<!-- awesome:maintainer -->
 Maintained by [Ian Wiedenman](https://github.com/ianwieds).
-<!-- /awesome:maintainer -->
+<!-- /awesome:footer -->
