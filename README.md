@@ -48,6 +48,7 @@ An agent runtime is the place an AI agent lives after the demo: it keeps the age
 - [Mastra Cloud](https://mastra.ai/ai-agent-deployment) - Hosted deploys for Mastra agents and workflows, from a git push to a live URL.
 - [Modal](https://modal.com) - Serverless cloud where Python agent backends, scheduled jobs and GPU work run on demand.
 - [Pipecat Cloud](https://docs.pipecat.ai/pipecat-cloud/introduction) - Managed hosting that runs and scales Pipecat voice agents.
+- [Sandscale](https://sandscale.dev) - Hosted Firecracker microVM sandboxes and cloud workspaces where coding agents run.
 
 ## Self-hosted agent servers
 
